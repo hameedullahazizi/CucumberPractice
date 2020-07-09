@@ -23,6 +23,7 @@ public class loginMethods {
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
+		System.out.println("this is a text");
 	
 	    
 	}
